@@ -1,6 +1,8 @@
 fastapi==0.109.0
 uvicorn[standard]==0.25.0
-psycopg2-binary==2.9.10
+psycopg2-binary==2.9.9
 pydantic==2.5.3
 python-multipart==0.0.6
 typing-extensions>=4.8.0
+--only-binary :all:
+--prefer-binary
