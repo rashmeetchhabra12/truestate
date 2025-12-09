@@ -34,3 +34,7 @@ Thumbs.db
 *.log
 .env
 .env.local
+
+# Large data files
+*.csv
+truestate_assignment_dataset.csv
